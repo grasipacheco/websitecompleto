@@ -1,0 +1,162 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Ammar */
+#ammar {
+  background-color: #cccccc;
+  color: #8c8c8c;
+}
+
+#ammar p {
+  color: #8c8c8c;
+  text-align: left;
+}
+
+
+
+#ammar .list {
+  display: inline-block;
+  width: 18%;
+}
+
+#ammar .go {
+  width: 80%;
+  display: inline-block;
+  text-align: right;
+}
+
+#ammar h2 img {
+  height: 2em;
+}
+
+#ammar .beans {
+  text-align: right;
+  width: 50%;
+  display: inline-block;
+}
+
+#ammar .list h2 {
+  display: inline-block;
+}
+
+#ammar .box {
+  display: inline-block;
+  width: 48%;
+}
+
+#ammar ul {
+  list-style: none;
+  text-align: right;
+}
+
+#ammar h1 {
+  border: 10px;
+}
+
+#ammar li {
+  padding: 10px;
+  display: inline-block;
+}
+
+#ammar .cafe {
+  color: #802000;
+  display: inline;
+}
+
+#ammar .outside-box {
+  display: inline;
+}
+
+/* Grasiele */
+#coffee {
+  background-image: url('../img/coffee.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 245px;
+  width: 50%;
+  display: inline-block;
+  margin: 0;
+}
+
+.parent {
+  display: flex;
+  width: 100%;
+}
+
+.texto {
+  width: 50%;
+  height: 245px;
+  color: white;
+  background-color: saddlebrown;
+  display: inline-block;
+  margin: 0;
+}
+
+.texto p {
+  text-align: left;
+}
+
+.caixa {
+  background-color: white;
+  color: saddlebrown;
+  border-style: ridge;
+}
+
+/* Ismail */
+#main-div {
+  width: 100%;
+  padding: 0;
+}
+
+#main-div img {
+  display: inline-flex;
+  margin: 90px;
+  width: 35%;
+}
+
+#main-div h4 {
+  text-align: center;
+  color: gray;
+}
+
+#main-div p {
+  text-align: center;
+  color: lightgray;
+}
+
+#id {
+  padding: 0px;
+  display: inline-flex;
+}
+
+#main-div .text {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  display: inline-flex;
+}
+
+/* Isabelle */
+
+
+#wrapper div.Footer {
+  display: inline-block;
+  color: white;
+  font-family: tahoma;
+  font-size: 12px;
+  width: 24%;
+  vertical-align: top;
+}
+
+#wrapper {
+  height: 200px;
+  width: 100%;
+  background: #795C4A;
+}
+
+#wrapper ul {
+  list-style-type: none;
+  padding: 0px;
+}
